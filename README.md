@@ -1,4 +1,4 @@
-*[Facebook Hack]*
+#*[Facebook Hack]*
 
 
 [ This  is a tool for hacking  random facebook account ]
