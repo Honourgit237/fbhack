@@ -37,7 +37,7 @@ python f4.py
 *Usage*
 
 
-[ ]
+[Windows, Termux, KaliLinux]
 
 *Contributing*
 
