@@ -50,7 +50,7 @@ python f4.py
 [ Note! We are not responsible for any misuse of this tool
 This tool was Created for education purpose  ]
 *support Contact*
-[Telegram]: https://t.me/@Honourgit
+[Telegram]: https://t.me/Honourgit
 
 
 
