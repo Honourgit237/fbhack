@@ -1,0 +1,348 @@
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [100035803955495]||[45;30m[Password]:[0;33m [672099935][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0flVhRot0CahUQhFk&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; httponly, c_user=100035803955495; expires=Tue, 04-Nov-2025 14:56:37 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; httponly, fr=0xVtw9gBW842Dgj3T.AWU5aHmL_HqgV_M-SM0hzr-qhGA.BnKN5M..AAA.0.0.BnKOCl.AWXfhkq4STs; expires=Sun, 02-Feb-2025 14:56:37 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730732196; path=/; httponly, sb=juAoZ27DpVbosmXbVGqDSXNB; expires=Tue, 09-Dec-2025 14:56:37 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=10%3A5ft55EuA_-3pbA%3A2%3A1730732201%3A-1%3A467; expires=Tue, 04-Nov-2025 14:56:37 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [100029688032729]||[45;30m[Password]:[0;33m [668019963][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0lzfciQNTfEhHV0w3&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; httponly, c_user=100029688032729; expires=Thu, 06-Nov-2025 06:17:48 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; httponly, fr=0XoMIHBOryWAmGoBT.AWXTOEkjw8Ic6GBxrXOBJaJw1pM.BnKwYR..AAA.0.0.BnKwoM.AWXgXz4DcaE; expires=Tue, 04-Feb-2025 06:17:48 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1730873867; path=/; httponly, sb=wAkrZ5C-FNT8-RoHKv1WxSyi; expires=Thu, 11-Dec-2025 06:17:48 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=5%3Ak7S5gS27xy7pWQ%3A2%3A1730873872%3A-1%3A454; expires=Thu, 06-Nov-2025 06:17:48 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [61558732355093]||[45;30m[Password]:[0;33m [6523316][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0XGUrDUax08JishCZ&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; httponly, c_user=61558732355093; expires=Fri, 21-Nov-2025 18:37:01 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; httponly, fr=0qbyPpNqNiOCgtirC.AWU5Bcj6j5d42cjAAv7NF3MNTKc.BnP31Q..AAA.0.0.BnP33N.AWUYHPdjJDM; expires=Wed, 19-Feb-2025 18:37:01 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732214220; path=/; httponly, sb=UH0_Z6EbwpYHbpPpO_hqPYAx; expires=Fri, 26-Dec-2025 18:37:01 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=25%3ATW2G2d1HnpMibw%3A2%3A1732214223%3A-1%3A464; expires=Fri, 21-Nov-2025 18:37:01 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [61555921395032]||[45;30m[Password]:[0;33m [6572000][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0OBUdx9onRICmc4v8&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; httponly, c_user=61555921395032; expires=Sat, 22-Nov-2025 14:37:00 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; httponly, fr=0szEozZXUGbQDLATP.AWUg2Z5BMomY4fL0PIps0Sq0AOQ.BnQJb7..AAA.0.0.BnQJcM.AWVl4lbWwoA; expires=Thu, 20-Feb-2025 14:37:00 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286219; path=/; httponly, sb=-5ZAZ6V2sxAMw8gEmclrBwxa; expires=Sat, 27-Dec-2025 14:37:00 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=27%3Ana9DLUi642J-nw%3A2%3A1732286225%3A-1%3A476; expires=Sat, 22-Nov-2025 14:37:00 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [100082619700705]||[45;30m[Password]:[0;33m [6572002][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0waKEPeswr76VL21g&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; httponly, c_user=100082619700705; expires=Sat, 22-Nov-2025 14:38:05 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; httponly, fr=0szEozZXUGbQDLATP.AWWv4yyfclYykl0lHwbpyNz2uOw.BnQJb7..AAA.0.0.BnQJdN.AWVdaB7HKgE; expires=Thu, 20-Feb-2025 14:38:05 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732286284; path=/; httponly, sb=-5ZAZ6V2sxAMw8gEmclrBwxa; expires=Sat, 27-Dec-2025 14:38:05 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=45%3AalOwbS8jCegZ2w%3A2%3A1732286287%3A-1%3A410; expires=Sat, 22-Nov-2025 14:38:05 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [100049470798052]||[45;30m[Password]:[0;33m [6721219][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0J9onlWvapbcKhx6X&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; httponly, c_user=100049470798052; expires=Sun, 23-Nov-2025 08:27:54 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; httponly, fr=0CfwUF2nqtBgO2YQ9.AWWhe2q-SAxByYOQxPrC7PXlDd0.BnQZHl..AAA.0.0.BnQZIK.AWWFYx9r4N0; expires=Fri, 21-Feb-2025 08:27:54 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350473; path=/; httponly, sb=5ZFBZ5bBrJ4lqcoikCwXFVje; expires=Sun, 28-Dec-2025 08:27:54 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=42%3A5-6N7kiFLYugug%3A2%3A1732350476%3A-1%3A391; expires=Sun, 23-Nov-2025 08:27:54 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [100076047713046]||[45;30m[Password]:[0;33m [6721215][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0lidbhocRJTCc2RFW&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; httponly, c_user=100076047713046; expires=Sun, 23-Nov-2025 08:28:34 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; httponly, fr=0CfwUF2nqtBgO2YQ9.AWWtl0LT_srWg_lLSJgqyH6fqEk.BnQZHl..AAA.0.0.BnQZIy.AWUiMIPggpA; expires=Fri, 21-Feb-2025 08:28:34 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350513; path=/; httponly, sb=5ZFBZ5bBrJ4lqcoikCwXFVje; expires=Sun, 28-Dec-2025 08:28:34 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=11%3ACHg8lEhhqNQuog%3A2%3A1732350516%3A-1%3A461; expires=Sun, 23-Nov-2025 08:28:34 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [61550852717488]||[45;30m[Password]:[0;33m [6721212][0;36m
+[Redirect]:https://free.facebook.com/login/save-device/?login_source=login&wtsid=rdr_0JDsbzJI1dmZT4lwg&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; httponly, c_user=61550852717488; expires=Sun, 23-Nov-2025 08:29:17 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; httponly, fr=0CfwUF2nqtBgO2YQ9.AWVjqBEkZHQGDeG_ryThGEpJ8ps.BnQZHl..AAA.0.0.BnQZJd.AWXdxJbnqvY; expires=Fri, 21-Feb-2025 08:29:17 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732350556; path=/; httponly, sb=5ZFBZ5bBrJ4lqcoikCwXFVje; expires=Sun, 28-Dec-2025 08:29:17 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=32%3ASr_FpXgIXQsz7A%3A2%3A1732350559%3A-1%3A12988; expires=Sun, 23-Nov-2025 08:29:17 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [61569922102434]||[45;30m[Password]:[0;33m [Nkwenui...][0;36m
+[Redirect]:https://m.facebook.com/?wtsid=rdr_0YGauFCdWekixFc8e&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; httponly, c_user=61569922102434; expires=Fri, 28-Nov-2025 22:15:46 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; httponly, fr=03cryt3dqB66boLYo.AWX7_jsBxfVefFd34SSZmy4CxEI.BnSOt7..AAA.0.0.BnSOuS.AWVv0eXIFGU; expires=Wed, 26-Feb-2025 22:15:46 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832145; path=/; httponly, ps_l=0; expires=Fri, 02-Jan-2026 22:15:46 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=Lax, ps_n=0; expires=Fri, 02-Jan-2026 22:15:46 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, sb=kutIZ2tfflX6TBG7ddVn4bQZ; expires=Fri, 02-Jan-2026 22:15:46 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=5%3Ae7uO3PuS6h7egA%3A2%3A1732832147%3A-1%3A-1; expires=Fri, 28-Nov-2025 22:15:46 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m [61569922102434]||[45;30m[Password]:[0;33m [Nkwenui...][0;36m
+[Redirect]:https://m.facebook.com/?wtsid=rdr_0aaNqL5lEj0FP9M8B&refsrc=deprecated&_rdr#_=_
+[45;30m[SES-Cookies]:[0;34mMax-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=free.facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=facebook.com; httponly, Max-Age=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=free.facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=facebook.com; httponly, SameSite=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; httponly, c_user=61569922102434; expires=Fri, 28-Nov-2025 22:15:55 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; SameSite=None, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=free.facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=facebook.com; httponly, domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=free.facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=facebook.com; httponly, expires=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; httponly, fr=03cryt3dqB66boLYo.AWVtGC_0XJFBZj-b1eFVC4ctIaY.BnSOt7..AAA.0.0.BnSOub.AWV8aPYxQQo; expires=Wed, 26-Feb-2025 22:15:55 GMT; Max-Age=7776000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=free.facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; domain=facebook.com; httponly, path=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1732832154; path=/; httponly, sb=m-tIZ_y6n0QMULdIsIxXXAuQ; expires=Fri, 02-Jan-2026 22:15:55 GMT; Max-Age=34560000; path=/; domain=.facebook.com; secure; httponly; SameSite=None, xs=36%3ABd5hgprZBzrCig%3A2%3A1732832157%3A-1%3A-1; expires=Fri, 28-Nov-2025 22:15:55 GMT; Max-Age=31536000; path=/; domain=.facebook.com; secure; httponly; SameSite=None]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237676211144]
+[100011745897542]
+[45;30m[Password]:[0;33m [676211
+[45;30m[SES-Cookies]:[0;34m
+ {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "O2xVZ0InnTd7T43GY9_S7XdP"}, {"domain": ".facebook.com", "name": "c_user", "value": "100011745897542"}, {"domain": ".facebook.com", "name": "xs", "value": "32%3AZTB5-zhL33ig2A%3A2%3A1733651541%3A-1%3A464"}, {"domain": ".facebook.com", "name": "sb", "value": "O2xVZ-bXuGnkPh75_9r0q76m"}, {"domain": ".facebook.com", "name": "sb", "value": "O2xVZ-bXuGnkPh75_9r0q76m"}]}]
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237676210121]
+[100080615076677]
+[45;30m[Password]:[0;33m [676210
+[45;30m[SES-Cookies]:[0;34m
+ {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "s25VZ9_i4SWSsRNgLhDGsloR"}, {"domain": ".facebook.com", "name": "c_user", "value": "100080615076677"}, {"domain": ".facebook.com", "name": "xs", "value": "18%3AtxtQbcA9LOCc5A%3A2%3A1733652677%3A-1%3A-1"}, {"domain": ".facebook.com", "name": "sb", "value": "s25VZ0AVkANK1eTcvdeMstfz"}, {"domain": ".facebook.com", "name": "sb", "value": "s25VZ0AVkANK1eTcvdeMstfz"}]}]
+
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[100080615076677]
+[100080615076677]
+[45;30m[Password]:[0;33m [676210]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "lINVZ4oACz4INcCO5dVq9Dgy"}, {"domain": ".facebook.com", "name": "c_user", "value": "100080615076677"}, {"domain": ".facebook.com", "name": "xs", "value": "40%3AuWrPTaqAJMX4qw%3A2%3A1733657504%3A-1%3A-1"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[100080615076677]
+[100080615076677]
+[45;30m[Password]:[0;33m [676210]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "lINVZ4oACz4INcCO5dVq9Dgy"}, {"domain": ".facebook.com", "name": "c_user", "value": "100080615076677"}, {"domain": ".facebook.com", "name": "xs", "value": "30%3A1IRNX_PoAPn7_Q%3A2%3A1733657510%3A-1%3A-1"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[100082619700705]
+[0]
+[45;30m[Password]:[0;33m [6572000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "x4VVZyyqaQOYQ6RUlP1hX4w1"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[100082619700705]
+[0]
+[45;30m[Password]:[0;33m [6572000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "x4VVZyyqaQOYQ6RUlP1hX4w1"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237676200044]
+[0]
+[45;30m[Password]:[0;33m [6762000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "3ohVZ9tMsCHBPNlW5WIRDxcd"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237676200044]
+[0]
+[45;30m[Password]:[0;33m [6762000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "3ohVZ9tMsCHBPNlW5WIRDxcd"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671600080]
+[61558865489728]
+[45;30m[Password]:[0;33m [6716000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "wYlVZ8EM-eyhgJg7fiomqOqz"}, {"domain": ".facebook.com", "name": "c_user", "value": "61558865489728"}, {"domain": ".facebook.com", "name": "xs", "value": "39%3ACZ9i3WkluNTJ6Q%3A2%3A1733659086%3A-1%3A399"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671600080]
+[61558865489728]
+[45;30m[Password]:[0;33m [6716000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "wYlVZ8EM-eyhgJg7fiomqOqz"}, {"domain": ".facebook.com", "name": "c_user", "value": "61558865489728"}, {"domain": ".facebook.com", "name": "xs", "value": "36%3A7aQuwaRsDsoO9g%3A2%3A1733659096%3A-1%3A399"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601469]
+[100060581441429]
+[45;30m[Password]:[0;33m [6716014]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100060581441429"}, {"domain": ".facebook.com", "name": "xs", "value": "21%3AxQgsp-ziLMJbHw%3A2%3A1733660408%3A-1%3A478"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601505]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "42%3AVjO6524JnBHRHQ%3A2%3A1733660422%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601512]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "47%3AOXlxsXo_P3yMzQ%3A2%3A1733660433%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601501]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "34%3AJ8DtfVPp7mds6g%3A2%3A1733660433%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601553]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "42%3A96a1k_iCTyNT-w%3A2%3A1733660434%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601517]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "10%3ADYIw3Z2YnPQMpA%3A2%3A1733660434%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601521]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "17%3AawwphsvZ9Ac76w%3A2%3A1733660435%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601574]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "50%3Am971FFTLE6Tuug%3A2%3A1733660436%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601525]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "20%3AMavpqRYfSoDu2A%3A2%3A1733660437%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601529]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "30%3A8K3lo4ulr9zkoA%3A2%3A1733660438%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601546]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "8%3ACw2nvsoFOvBIWg%3A2%3A1733660439%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601545]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "31%3AwPxaugu5q4abzw%3A2%3A1733660440%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601541]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "15%3A_N6oj2m3I1F4RQ%3A2%3A1733660439%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601542]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "1%3AyZMJ_g5RwTLoCw%3A2%3A1733660439%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601556]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "6%3Ak93C63oQLf5_SA%3A2%3A1733660441%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601543]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "28%3ApUXxI4Mu9SrcAQ%3A2%3A1733660442%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601552]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "3%3AzutA4dDLkNjw3A%3A2%3A1733660441%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601593]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "45%3AoaIwLswhsrnZFA%3A2%3A1733660443%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601586]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "22%3A4_UmKKYSkaJJ0A%3A2%3A1733660444%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671601555]
+[100034668400310]
+[45;30m[Password]:[0;33m [6716015]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "OY1VZxCw2LrijddNOFYXQy9t"}, {"domain": ".facebook.com", "name": "c_user", "value": "100034668400310"}, {"domain": ".facebook.com", "name": "xs", "value": "39%3A3O9uJ6UcY4nUuA%3A2%3A1733660444%3A-1%3A473"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671600016]
+[100044287264133]
+[45;30m[Password]:[0;33m [6716000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "gptVZ4h3ZFZhe8jBxpQiufsq"}, {"domain": ".facebook.com", "name": "c_user", "value": "100044287264133"}, {"domain": ".facebook.com", "name": "xs", "value": "30%3APWDwE8zDySBu7w%3A2%3A1733663639%3A-1%3A1906"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671600045]
+[100044287264133]
+[45;30m[Password]:[0;33m [6716000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "gptVZ4h3ZFZhe8jBxpQiufsq"}, {"domain": ".facebook.com", "name": "c_user", "value": "100044287264133"}, {"domain": ".facebook.com", "name": "xs", "value": "48%3ALuvYNZkgD8FBcA%3A2%3A1733663650%3A-1%3A1906"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671600069]
+[100095309957009]
+[45;30m[Password]:[0;33m [6716000]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "gptVZ4h3ZFZhe8jBxpQiufsq"}, {"domain": ".facebook.com", "name": "c_user", "value": "100095309957009"}, {"domain": ".facebook.com", "name": "xs", "value": "38%3AArSUudoDfgyyCQ%3A2%3A1733663649%3A-1%3A466"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671600394]
+[100086009552556]
+[45;30m[Password]:[0;33m [6716003]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "gptVZ4h3ZFZhe8jBxpQiufsq"}, {"domain": ".facebook.com", "name": "c_user", "value": "100086009552556"}, {"domain": ".facebook.com", "name": "xs", "value": "50%3AbHafsNAKJtEzZg%3A2%3A1733663719%3A-1%3A466"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[237671600744]
+[61554743922734]
+[45;30m[Password]:[0;33m [6716007]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "gptVZ4h3ZFZhe8jBxpQiufsq"}, {"domain": ".facebook.com", "name": "c_user", "value": "61554743922734"}, {"domain": ".facebook.com", "name": "xs", "value": "48%3AEgoQFrj90I3LRw%3A2%3A1733663842%3A-1%3A467"}]}
+
+
+
+[45;30m[ok][ID][PhoneNumber][Email]:[0;33m[+2347031851445]
+[100072573804140]
+[45;30m[Password]:[0;33m [0703185]
+[45;30m[SES-Cookies]:[0;34m
+  {"url": "https://m.facebook.com", "cookies": [{"domain": ".facebook.com", "name": "datr", "value": "7qBVZ8syAvVnu42nnpxLyGbe"}, {"domain": ".facebook.com", "name": "c_user", "value": "100072573804140"}, {"domain": ".facebook.com", "name": "xs", "value": "23%3AMeqQlWiXJZ5o5A%3A2%3A1733665315%3A-1%3A-1"}]}
+
+
