@@ -7,7 +7,7 @@
 
 [ This  is a tool for hacking  random facebook account ]
 
-*How to Install This Tool*
+*How to Install on Termux*
 
 
 To install this tool, follow these steps:
@@ -46,13 +46,13 @@ python f4.py
 *Contributing*
 
 
-[  ]
+[ Warning]
 
-*License*
+
 
 
 [ Note! We are not responsible for any misuse of this tool
-This tool was Created for education purpose  ]
+This tool was Created for education purpose only ]
 *support Contact*
 [Telegram]: https://t.me/Honourgit
 
