@@ -1,9 +1,9 @@
 #*[Facebook Hack]*
 
 
-```
+
 ![fbhack](https://github.com/Honourgit237/fbhack/blob/169246039672a0a150ae857e684454a923d738ca/Screenshot_20241203-085045.jpg)
-```
+
 
 [ This  is a tool for hacking  random facebook account ]
 
