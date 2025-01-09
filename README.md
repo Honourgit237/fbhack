@@ -35,7 +35,7 @@ pip install colorama
 bash
 git clone https://github.com/Honourgit237/fbhack.git
 cd fbhack
-python f4.py
+python fv7.py
 ```
 
 *Usage*
