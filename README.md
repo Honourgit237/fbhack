@@ -51,7 +51,8 @@ python fv7.py
 
 
 
-[ Note! We are not responsible for any misuse of this tool
+[ Note! We are not responsible for any misuse of this tool.
+
 This tool was Created for education purpose only ]
 *support Contact*
 [Telegram]: https://t.me/Honourgit
